@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div align="center">
+<br>
+&nbsp;&nbsp;&nbsp;
+<a href="isaac.bravo.21@gmail.com"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8009/02dc3a5c-6504-4347-85fb-3f510cfecc45.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/IsaacBr45419303"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/isaac-bravo/"><img border="0" alt="LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <br><br>
+</div>
+
+
 <!--
 **IsaacBravo/isaacbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

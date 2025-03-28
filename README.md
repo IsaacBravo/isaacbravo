@@ -14,11 +14,12 @@ I am Isaac Bravo! A researcher currently pursuing a Ph.D. at the Technical Unive
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 <br>
 
-📦 Current and Past projects:
+## 📦 Current and Past projects:
 
 [R Package in Development: emissionTrackerR](https://github.com/IsaacBravo/emissionTrackerR)
 
 [R Package in Development: TextAnalyzer](https://github.com/IsaacBravo/TextAnalyzer)
+<br>
 
 ## ⚡ GitHub Stats
 
